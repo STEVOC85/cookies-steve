@@ -1,5 +1,9 @@
 # cookies
-Coolest Fermilab project ever
+Coolest Fermilab Project Ever
+
+List of pages:
+
+- [Fermilab Air Quality Index](airqualityindex.html)
 
 List of pages:
 
